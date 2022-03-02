@@ -1,9 +1,7 @@
-# MT3D_CNN
+# Pseudo-3D MT inversion with a deep learning framework
 
 updating...
 
-
-![3_angle_slice](https://user-images.githubusercontent.com/39324742/131527889-864a1c41-6ab8-4d1a-948f-3a6d5b92cdfb.png)
-![Meager_res_EW](https://user-images.githubusercontent.com/39324742/156391056-6fcd7593-8fd6-4ec8-94de-71d1215fba5a.gif)
-
+A case study (coordinates are removed for copyright concern..)
+![res_NED_web](https://user-images.githubusercontent.com/39324742/156404676-b119e406-4831-4097-a61a-d102fa7547fd.gif)
 
