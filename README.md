@@ -13,7 +13,8 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
     3. updating...
 Synthetic testing - model and prediction
 
-![Synthetic_Cubic_20230810100007](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/53249e56-0e8a-4820-8334-204974be0644)  ![Synthetic_Cubic_20230810100010](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/49bd18ca-314d-47f8-be5b-fcb4e3fd6ded)
+![Synthetic_Cubic_20230810100007](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/7e3935c1-1056-4c55-9a65-3f84ba1cdeff)
+![Synthetic_Cubic_20230810100010](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/72337c28-c67a-498a-9204-b32f0197bb3b)
 
 A case study (coordinates are removed for copyright concern..)
 ![res_NED_web](https://user-images.githubusercontent.com/39324742/156404676-b119e406-4831-4097-a61a-d102fa7547fd.gif)
