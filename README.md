@@ -6,7 +6,7 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
   
 ### Requirements:
 
-* Install python 3.8/newer and anaconda packages: conda install keras, tensorflow, scikit-image, opencv, tqdm, pandas, numpy, seaborn etc libraries; also need download ModEM package for forward modelling.
+* Install python 3.8/newer and anaconda packages: conda install keras, tensorflow, scikit-image, opencv, tqdm, pandas, numpy, seaborn, mtpy, etc. libraries; also need download ModEM package for forward modelling.
 
 ### Instruction:
     1. MT3D_unet_1.py is for generating datasets
