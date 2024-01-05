@@ -2,15 +2,14 @@
 
 Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion 
 * The goal of this study is to realize 3D inversion with deep learning algorithm and its practical application of magnetotelluric data, instead of traditional interative processing.
-
+* Because the storage limitation, current uploaded code is only for testing the trained CNN model with synthetic model. We will update with more details in the future.
 ### Requirements:
 
 * Install python 3.8/newer and anaconda packages: conda install keras, tensorflow, scikit-image, opencv, tqdm, pandas, numpy, seaborn etc libraries; also need download ModEM package for forward modelling.
 
 ### Instruction:
-    1. _MD_generation.py_ is for generating datasets
-    2. _forWeb_training_validation_1.py_ 
-    3. updating...
+    1. MT3D_unet_1.py is for generating datasets
+    2. updating...
 
 Synthetic testing - model and prediction
 ![Figure_8](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/c047c636-7e29-4c18-8aac-1033c6041dae)
