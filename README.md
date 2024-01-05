@@ -11,11 +11,10 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
     1. _MD_generation.py_ is for generating datasets
     2. _forWeb_training_validation_1.py_ 
     3. updating...
-Synthetic testing - model and prediction
 
+Synthetic testing - model and prediction
+![Figure_8](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/c047c636-7e29-4c18-8aac-1033c6041dae)
+![Figure_5](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/4d9d8c07-51e2-4204-9e48-57a1e358d416)
 ![Synthetic_Cubic_20230810100007](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/7e3935c1-1056-4c55-9a65-3f84ba1cdeff)
 ![Synthetic_Cubic_20230810100010](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/72337c28-c67a-498a-9204-b32f0197bb3b)
-
-A case study (coordinates are removed for copyright concern..)
-![res_NED_web](https://user-images.githubusercontent.com/39324742/156404676-b119e406-4831-4097-a61a-d102fa7547fd.gif)
 
