@@ -30,7 +30,7 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
 
 * MT3D_CNN used open source codes and library from github, google, kaggle, and open-sourced geophysical inversion packages mtpy and ModEM. Please cite the related references in your publications.
 
-Synthetic model testing - slice and 3d view of true models and predictions
+Synthetic model testing - slice and 3d view of true models and predictions:
 ![Figure_8](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/c047c636-7e29-4c18-8aac-1033c6041dae)
 ![Figure_5](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/4d9d8c07-51e2-4204-9e48-57a1e358d416)
 
