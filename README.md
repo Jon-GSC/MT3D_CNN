@@ -34,6 +34,6 @@ Synthetic model testing - slice and 3d view of true models and predictions:
 ![Figure_8](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/c047c636-7e29-4c18-8aac-1033c6041dae)
 ![Figure_5](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/4d9d8c07-51e2-4204-9e48-57a1e358d416)
 
-<div style="text-align:center">![Synthetic_Cubic_20230810100007](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/7e3935c1-1056-4c55-9a65-3f84ba1cdeff)</div>
+<span style="display:block;text-align:center">![Synthetic_Cubic_20230810100007](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/7e3935c1-1056-4c55-9a65-3f84ba1cdeff)</span>
 ![Synthetic_Cubic_20230810100010](https://github.com/Jon-GSC/MT3D_CNN/assets/39324742/72337c28-c67a-498a-9204-b32f0197bb3b)
 
