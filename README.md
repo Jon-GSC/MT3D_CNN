@@ -12,7 +12,7 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
     1. _1_modelpred.py is for test the model prediction with validation datasets
     2. updating...
 
-### Hardware tested: 
+### Hardware: 
 
 * HP-7920 workstation: 56core CPU; 64G memory; one Nvidia Quadro P5000 GPU.
 
@@ -30,7 +30,7 @@ Deep learning (DL) based algorithm to realize magnetotelluric (MT) 3D inversion
 
 * MT3D_CNN used open source codes and library from github, google, kaggle, and open-sourced geophysical inversion packages mtpy and ModEM. Please cite the related references in your publications.
 
-### Citation: 
+### Related Article: 
 
 * Liu X, Craven JA, Tschirhart V, Grasby SE. Estimating Three-Dimensional Resistivity Distribution with Magnetotelluric Data and a Deep Learning Algorithm. Remote Sensing. 2024; 16(18):3400. https://doi.org/10.3390/rs16183400.
 
